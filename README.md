@@ -288,6 +288,7 @@
 ## API 篇
 
 * RESTful 是什么
+* [jsonapi](http://jsonapi.org.cn/) 是什么
 * 如何在不支持 `DELETE` 请求的浏览器上兼容 `DELETE` 请求
 * 常见 API 的 `APP_ID` `APP_SECRET` 主要作用是什么？阐述下流程 
 * API 请求如何保证数据不被篡改？
